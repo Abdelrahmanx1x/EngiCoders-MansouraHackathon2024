@@ -10,8 +10,6 @@
 
 ## Our Team 👥
 
-We are a dedicated team of AI engineers, web developers, and mental health experts who collaborated to create Rifiq, your AI-powered companion for mental health support. Meet the team:
-
 - **[Mohamed El-Ewashy](https://github.com/elewashy)** 
 - **[Abdulrahman-Ayman-Farid](https://github.com/Abdulrahman-Ayman-Farid)** 
 - **[Abdelrahman Mohamed](https://github.com/beedo239e)** 
